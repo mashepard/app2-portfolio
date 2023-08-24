@@ -13,3 +13,8 @@ with col2:
     Hi, I am Mark! I am a student of Python, with the goal of becoming a data engineer
     """
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built in Python. Feel free to contact me!
+"""
+st.write(content2)
